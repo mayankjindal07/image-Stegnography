@@ -7,6 +7,7 @@ Image Steganography is widely used for hiding a message image into a cover image
 ## LIVE Link 
 https://drive.google.com/file/d/1x8QlftxkHpFRQrTTOv3-WoIBA5HEeffF/view?usp=share_link
 
+![mjlogo](https://github.com/mayankjindal07/image-Stegnography/assets/65009572/f3064fa9-63fc-4007-a9cc-fcf0d52eda4d)
 
 <img width="1223" alt="Screenshot 2024-05-14 at 12 10 29 PM" src="https://github.com/Rahultomer126/Image-steganography/assets/76908474/b7967477-5a42-4f11-95c2-cc0fbb52cf07">
 
